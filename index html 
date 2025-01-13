@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hawkings Luvaga Foundation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #003366;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #f4f4f4;
+            padding: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+        }
+        section {
+            padding: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            max-width: 300px;
+            margin: 10px;
+            display: inline-block;
+        }
+        footer {
+            background: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hawkings Luvaga Foundation</h1>
+        <p>Building brighter futures together</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#activities">Our Activities</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p><strong>Mission:</strong> To empower vulnerable individuals and families with tools, resources, and opportunities to achieve sustainable livelihoods while addressing their immediate needs through compassionate assistance.</p>
+        <p><strong>Vision:</strong> A world where every individual has the opportunity to lead a dignified life, free from poverty, with access to resources that enable self-reliance and lasting change.</p>
+        <p><strong>Core Values:</strong> Compassion, Empowerment, Equity, and Inclusion.</p>
+    </section>
+
+    <section id="activities">
+        <h2>Our Activities</h2>
+        <ul>
+            <li>Feeding programs to assist the less fortunate.</li>
+            <li>Clothing donation drives.</li>
+            <li>Sponsoring needy students with tuition fees.</li>
+            <li>Supporting women with economic empowerment programs.</li>
+        </ul>
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <p>Images of our work will be displayed here. (Gallery integration pending)</p>
+        <!-- Placeholder for images -->
+        <div class="gallery">
+            <img src="placeholder1.jpg" alt="Placeholder Image">
+            <img src="placeholder2.jpg" alt="Placeholder Image">
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p><strong>Address:</strong> 1084 Meru</p>
+        <p><strong>Phone:</strong> 0713730073 / 0731888045</p>
+        <p><strong>Email:</strong> info@luvagafoundation.org</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Hawkings Luvaga Foundation. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
