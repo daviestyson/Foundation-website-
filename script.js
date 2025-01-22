@@ -41,4 +41,3 @@ document.getElementById('contact-form').addEventListener('submit', function(even
 
     // Reset form fields
     document.getElementById('contact-form').reset();
-});
